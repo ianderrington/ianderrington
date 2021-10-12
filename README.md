@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning project management, Tensorflow probability, Firebase Interactions, React
 - 📫 Reach me at: 
   - 🖥 [My Website](ianderrington.com)!
-  - 🕊 [Twitter] (https://twitter.com/ian_derrington)
-  - 🖇 [LinkedIn] (https://www.linkedin.com/in/ian-derrington/)
+  - 🕊 [Twitter](https://twitter.com/ian_derrington)
+  - 🖇 [LinkedIn](https://www.linkedin.com/in/ian-derrington/)
 - 
 
 <!---
